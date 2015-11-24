@@ -1,0 +1,23 @@
+﻿Build started 2015-11-23 13:39:42.
+     1>Project "C:\Users\krzyś\documents\visual studio 2015\Projects\Gra_w_statki\Gra_w_statki\Gra_w_statki.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\krzyś\documents\visual studio 2015\Projects\Gra_w_statki\Release\Gra_w_statki.exe" /NOLOGO /LIBPATH:"C:\Users\krzyś\Documents\Visual Studio 2015\Projects\Gra_w_statki\Gra_w_statki\allegro-5.0.10-msvc-11.0\lib" "allegro-5.0.10-monolith-mt.dll" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\krzyś\documents\visual studio 2015\Projects\Gra_w_statki\Release\Gra_w_statki.pdb" /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\krzyś\documents\visual studio 2015\Projects\Gra_w_statki\Release\Gra_w_statki.lib" /MACHINE:X86 /SAFESEH Release\Artificial_Inteligence.obj
+         Release\gra.obj
+         Release\kratka.obj
+         Release\main.obj
+         Release\menu.obj
+         Release\odszyfrowywanie.obj
+         Release\plansza.obj
+         Release\przycisk.obj
+         Release\przycisk_img.obj
+         Release\przycisk_txt.obj
+         Release\Silnik.obj
+         Release\statystyka.obj
+         Release\wspolrzedna.obj
+         Release\zaloga_statku.obj
+     1>LINK : fatal error LNK1181: cannot open input file 'allegro-5.0.10-monolith-mt.dll'
+     1>Done Building Project "C:\Users\krzyś\documents\visual studio 2015\Projects\Gra_w_statki\Gra_w_statki\Gra_w_statki.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.10

@@ -4,6 +4,7 @@
     <Filter Include="Source Files">
       <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
       <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
     </Filter>
     <Filter Include="Header Files">
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
@@ -15,13 +16,94 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Artificial_Inteligence.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="gra.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="odszyfrowywanie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="plansza.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="kratka.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="przycisk.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="przycisk_img.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="przycisk_txt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Silnik.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="wspolrzedna.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="zaloga_statku.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="statystyka.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Artificial_Inteligence.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
     <ClInclude Include="driver.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="gra.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="odszyfrowywanie.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="plansza.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="kratka.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="przycisk.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="przycisk_img.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="przycisk_txt.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="silnik.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="statystyka.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="wspolrzedna.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="zaloga_statku.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
   </ItemGroup>
 </Project>
